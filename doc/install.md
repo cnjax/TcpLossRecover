@@ -16,6 +16,7 @@
 |---|---|
 | Linux x86_64 | `tlr-linux-amd64` |
 | Linux aarch64 | `tlr-linux-arm64` |
+| Linux 32 位 ARM（armv7，如 OpenWrt 的 ipq40xx 路由器；`uname -m` 显示 `armv7l`） | `tlr-linux-armv7` |
 | macOS Apple 芯片 | `tlr-darwin-arm64` |
 | macOS Intel | `tlr-darwin-amd64` |
 | Windows | `tlr-windows-amd64.exe` |
